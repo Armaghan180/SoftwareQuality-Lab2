@@ -1,2 +1,3 @@
-# SoftwareQuality-Lab2
-The second deliverable for the Software Quality Lab
+# SOFE3980U - PROJECT DELIVERABLE 2: MAVEN & WEB APPLICATION
+## Armaghan Nasir - 100820948
+Group 18
